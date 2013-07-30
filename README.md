@@ -13,9 +13,13 @@
 誰かがハッピーになる物
 
 - 作るものは？
+　　ゴルノミクス
 - 誰が？
+　　すべてのゴルファー
 - どうハッピー？
+　　洗脳（Golf愛）
 - 各種利用技術(言語、フレームワークなど)
+　　Ruby（Gem頼り）
 
 [gachi2013](https://github.com/honbin/gachi2013)リポジトリをforkして、上記項目を記載の上
 markdown形式でpull requestしてください！！
